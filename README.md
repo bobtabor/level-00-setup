@@ -6,11 +6,13 @@ This course is a "Level 0" course, meaning that it is here to help prepare you f
 
 ## Course Lessons
 
-|Status|Title|Moniker|Video URL|
+|Status|Moniker|Title|Video URL|
 | --- | --- | --- | --- |
-|:heavy_check_mark:|setup-development-environment|What is a development environment?|https://bobtabor.com/|
-|:heavy_check_mark:|install-dotnet-core|How do I install .NET Core SDK?|https://bobtabor.com/|
-
+|:heavy_check_mark:|setup-development-environment|What is a development environment?|[Link](https://bobtabor.com/)|
+|:heavy_check_mark:|install-dotnet-core|How do I install .NET Core SDK?|[Link](https://bobtabor.com/)|
+|:heavy_check_mark:|install-git|How do I install Git?|[Link](https://bobtabor.com/)|
+|:heavy_check_mark:|install-vscode|How do I install Visual Studio Code?|[Link](https://bobtabor.com/)|
+s
 :heavy_check_mark: - Complete
 
 :o: - Open / Not complete
